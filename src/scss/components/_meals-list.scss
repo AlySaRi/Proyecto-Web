@@ -80,6 +80,7 @@
 
         .picture{
             width: 100%;
+            cursor: pointer;
         }
 
         .name{
@@ -90,25 +91,37 @@
             margin-left: 5px;   
             
         }
-        .tiempo {
-            display: flex;
-            flex-direction: row;
-            justify-content: flex-end;
-            align-content: flex-start;
-            margin-top: -15px;
-            font-weight: bold;  
-            text-align: right;
-        }
-
-        
 
         .type{
             margin-top: 8px;
             margin-left: 5px;
         }
-        
-        
-        
-        
+
+        .delete {
+            font-size: $font-size-small;
+            font-weight: bold;
+            color: $color-Red;
+            cursor: pointer;
+            float: left;
+            padding-top: 20px;
+        }
+
+        .fav-count {
+            font-size: $font-size-small;
+            font-weight: bold;
+            padding-top: 20px;
+            padding-right: 4px;
+            float: right;
+            color: $color-Red;
+            cursor: pointer;
+            &.liked {
+                color: rgb(90, 100, 218);
+            }
+         }
+
+         .count {
+            float: right;
+            padding-top: 18px;
+        }    
     }
 }

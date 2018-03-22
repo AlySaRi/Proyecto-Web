@@ -4,7 +4,8 @@
   "description": "###  1. Descargar este repositorio. ###  2. Abrir el proyecto con Visual Studio Code. ###  3. Ir a *\"Ver\"* del menú superior y seleccionar *\"Terminal integrada\"*. ###  4. Ejecutar el comando:  *npm install*.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "json-server --static ./dist --port 3200 db.json"
   },
   "keywords": [],
   "author": "",
@@ -28,7 +29,12 @@
     "gulp-sourcemaps": "^2.6.4",
     "gulp-tap": "^1.0.1",
     "gulp-uglify": "^3.0.0",
+    "json-server": "^0.12.1",
     "node-sass": "^4.7.2",
     "posts": "0.0.1"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "pubsub-js": "^1.6.0"
   }
 }
