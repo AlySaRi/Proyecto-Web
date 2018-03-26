@@ -3,7 +3,7 @@
     {
       "name": "Brownie",
       "type": "Postre",
-      "likes_qty": "91",
+      "likes_qty": "92",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfAyJVPzxRiqxjI5Ia4KOftZW6KzaoT7TcXoza89aInT4ibdT7",
       "id": 1
     },
@@ -24,14 +24,14 @@
     {
       "name": "Arroz con longanizas",
       "type": "Plato principal",
-      "likes_qty": "45",
+      "likes_qty": "44",
       "picture": "https://i.pinimg.com/736x/09/fc/2a/09fc2affd76a5e945d85ecfde403ad66--spanish-recipes-spanish-food.jpg",
       "id": 4
     },
     {
       "name": "Croquetas",
       "type": "Entrante",
-      "likes_qty": "120",
+      "likes_qty": "121",
       "picture": "https://d1bvpoagx8hqbg.cloudfront.net/originals/top-places-eat-croquetas-madrid-8df5d031e4e4bd318cf7c1d2372e4171.jpg",
       "id": 5
     },
@@ -66,8 +66,8 @@
     {
       "name": "Wheinachtsplaetchen",
       "type": "Snack",
-      "likes_qty": "81",
-      "picture": "https://lh3.googleusercontent.com/-9GZtU5MY8c1LtZLV4f1kYijOCk1sk3nG_6vIy-74iVJp1lD_Z0Rz-EoWMjFl7-6UxIP=s85",
+      "likes_qty": "82",
+      "picture": "https://static.chefkoch-cdn.de/ck.de/rezepte/91/91956/876239-420x280-fix-weihnachtsplaetzchen-ausstecherle.jpg",
       "id": 10
     }
   ]
