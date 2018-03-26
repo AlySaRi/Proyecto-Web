@@ -3,14 +3,14 @@
     {
       "name": "Brownie",
       "type": "Postre",
-      "likes_qty": "90",
+      "likes_qty": "91",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfAyJVPzxRiqxjI5Ia4KOftZW6KzaoT7TcXoza89aInT4ibdT7",
       "id": 1
     },
     {
       "name": "Cocido",
       "type": "Plato principal",
-      "likes_qty": "41",
+      "likes_qty": "40",
       "picture": "http://www.annarecetasfaciles.com/files/carn-dolla-1.jpg",
       "id": 2
     },
@@ -66,7 +66,7 @@
     {
       "name": "Wheinachtsplaetchen",
       "type": "Snack",
-      "likes_qty": "80",
+      "likes_qty": "81",
       "picture": "https://lh3.googleusercontent.com/-9GZtU5MY8c1LtZLV4f1kYijOCk1sk3nG_6vIy-74iVJp1lD_Z0Rz-EoWMjFl7-6UxIP=s85",
       "id": 10
     }
